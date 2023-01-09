@@ -1,0 +1,26 @@
+.rightsidebar_upper{
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+display: flex;
+}
+
+.both{
+    display: flex;
+}
+
+.name{
+margin-top: 17px;
+margin-right: 10px;
+}
+
+.switch{
+    margin-top: 19px;
+    margin-left: 150px;
+    color: #1895f5;
+    cursor: pointer;
+}
+
+.bro{
+    cursor: pointer;
+}

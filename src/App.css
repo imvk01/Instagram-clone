@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #fafafa;
+}
+
+.app_header {
+  padding: 20px;
+  object-fit: contain;
+  display: flex;
+
+}

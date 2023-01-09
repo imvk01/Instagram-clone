@@ -1,0 +1,15 @@
+.sideBar{
+    
+    flex:0.33;
+}
+
+.sideBar_bottom{
+margin-top: 130px;
+margin-left: 5px;
+
+}
+
+.app__headerImage{
+    padding: 10px;
+    margin-left: 5px;
+}

@@ -1,0 +1,13 @@
+.story{
+    margin-right: 10px;
+    transition: transform 100ms ease-in;
+    cursor: pointer;
+    border-radius: 100px;
+    border: 2.4px solid red;
+   
+}
+
+.story:hover{
+    transform: scale(1.07);
+   
+} 
